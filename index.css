@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body{
     background-color: gray;
     display: flex;
@@ -6,28 +6,17 @@ body{
     align-items: center;
     height: 100vh;  
 }
-input, button{
-=======
-body {
-    background: rgb(255, 0, 0);
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
-form {
-    width: 300px;
-}
+
 input {
     border: none;
 }
 input, button {
->>>>>>> f22809344378a7f70e8d39aa0d8c45dbc0628b6c
+
     padding: 10px;
     margin-bottom: 10px;
     width: -webkit-fill-available;
 }
-<<<<<<< HEAD
+
 button{
     cursor: pointer;
 }
@@ -53,34 +42,5 @@ button:active{
 .outline{
     background: transparent;
     color: white;
-    border: 1px solid white;
-    
+    border: 1px solid white;  
 }
-=======
-button {
-    cursor: pointer;
-}
-button:active {
-    opacity: 0.8;
-}
-button[disabled] {
-    opacity: 0.8;
-}
- 
-
-.clear {
-    background: transparent;
-    border: none;
-    color: white;
-}
-.solid {
-    background: white;
-    border: none;
-    color: rgb(255, 0, 0);
-}
-.outline {
-    background: transparent;
-    color: white;
-    border: 1px solid white;
-}
->>>>>>> f22809344378a7f70e8d39aa0d8c45dbc0628b6c
