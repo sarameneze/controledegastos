@@ -8,5 +8,5 @@ const firebaseConfig = {
 };
 firebase.initializeApp(firebaseConfig);
 
-<script> git.code</script>
+
 

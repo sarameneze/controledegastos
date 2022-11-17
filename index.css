@@ -7,7 +7,7 @@ body{
     height: 100vh;  
 }
 form{
-    width: 300px;
+    width: 301px;
 }
 
 input {
@@ -19,6 +19,8 @@ input, button {
     margin-bottom: 10px;
     width: -webkit-fill-available;
 }
+
+
 
 button{
    margin-bottom: 10px;

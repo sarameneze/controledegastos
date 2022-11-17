@@ -82,6 +82,8 @@ function isFormValid() {
     return true;
 }
 
+
+
 const form = {
     confirmPassword: () => document.getElementById('confirmPassword'),
     confirmPasswordDoesntMatchError: () => document.getElementById('password-doesnt-match-error'),

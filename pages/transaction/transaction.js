@@ -16,6 +16,9 @@ function isNewTransaction() {
     return getTransactionUid() ? false : true;
 }
 
+
+
+
 function findTransactionByUid(uid) {
     showLoading();
 

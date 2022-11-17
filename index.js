@@ -23,6 +23,8 @@ function toggleEmailErrors() {
     form.emailInvalidError().style.display = validateEmail(email) ? "none" : "block";
 }
 
+
+
 function togglePasswordErrors() {
     const password = form.password().value;
     form.passwordRequiredError().style.display = password ? "none" : "block";
