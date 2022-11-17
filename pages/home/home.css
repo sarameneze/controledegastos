@@ -16,7 +16,7 @@ ol li:hover {
     opacity: 0.8;
 }
 ol li.expense {
-    border-left: 11px solid red;
+    border-left: 10px solid red;
 }
 ol li.income {
     border-left: 10px solid green;

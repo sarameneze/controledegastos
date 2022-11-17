@@ -101,8 +101,6 @@ function formatDate(date) {
     return new Date(date).toLocaleDateString('pt-br');
 }
 
-
-
 function formatMoney(money) {
     return `${money.currency} ${money.value.toFixed(2)}`
 }

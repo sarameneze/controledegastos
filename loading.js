@@ -16,5 +16,3 @@ function hideLoading() {
         loadings[0].remove();
     }
 }
-
-

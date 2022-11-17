@@ -33,8 +33,6 @@ const transactionService = {
     }
 }
 
-
-
 function callApi({method, url, params}) {
     return new Promise(async (resolve, reject) => {
         const xhr = new XMLHttpRequest();
